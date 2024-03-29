@@ -1,0 +1,11 @@
+*****JSON TOkEN AND BCRYPT***
+Encryption and decrytion is done usinf encoding(cypher) but now onward new technologies came into existence. As the previous once are not much secure.
+
+Hence we will use hasing using bcrypt which include bcypt version,exponent,generated salt. If we use salt and pepper to make the random password even more stronger.Thus for this we take two argument in bcrpt . First is hash of password and a salt.
+
+****MONGODB********
+Imports 'monngoose library, which is a popular library for working with MongoDB in Node.js applications.
+Define asynchronous function connectToMongoDB that will be responsible for establishing a connection to the MongoDB database.
+
+********props*******&&*****context*****
+usereducer and usestate
